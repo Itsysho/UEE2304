@@ -8,3 +8,4 @@
 ## HW03
 
 - [Stack Backtrack](stack_backtrack.md)
+- [Stack Mouse Maze](stack_mouse_maze.md)
